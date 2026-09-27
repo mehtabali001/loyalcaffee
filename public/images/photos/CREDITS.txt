@@ -1,0 +1,21 @@
+Photography licensed under the Unsplash License (free for commercial use, no attribution required).
+Replace with the cafe's own shoot when available (Admin → Gallery / Home sections).
+
+hero-day.webp — Photo by ? on Unsplash — https://unsplash.com/photos/fT286wUYjuQ
+hero-night.webp — Photo by ? on Unsplash — https://unsplash.com/photos/Iq5k2I-VLqw
+lounge-green.webp — Photo by ? on Unsplash — https://unsplash.com/photos/jrxvMZ4ICCI
+coffee-sunlight.webp — Photo by ? on Unsplash — https://unsplash.com/photos/tLXeoLyYR88
+shisha-gold.webp — Photo by ? on Unsplash — https://unsplash.com/photos/Sw7dClRfLk0
+shisha-green.webp — Photo by ? on Unsplash — https://unsplash.com/photos/_ynhWwRBKXk
+match-crowd.webp — Photo by ? on Unsplash — https://unsplash.com/photos/86zZ7oZI1y0
+match-screen.webp — Photo by ? on Unsplash — https://unsplash.com/photos/F1j5txbVebE
+latte-art.webp — Photo by ? on Unsplash — https://unsplash.com/photos/GT5klubwZhI
+iced-latte.webp — Photo by ? on Unsplash — https://unsplash.com/photos/vZOZJH_xkUk
+avocado-shake.webp — Photo by ? on Unsplash — https://unsplash.com/photos/eFm5TwtuQIU
+dallah-row.webp — Photo by ? on Unsplash — https://unsplash.com/photos/QpPDH5yeGFo
+dates-gahwa.webp — Photo by ? on Unsplash — https://unsplash.com/photos/URncnSvN6Kw
+gahwa-pour.webp — Photo by ? on Unsplash — https://unsplash.com/photos/iYUdNo8lHOo
+dallah-night.webp — Photo by ? on Unsplash — https://unsplash.com/photos/AYMeczF6bHs
+mezze.webp — Photo by ? on Unsplash — https://unsplash.com/photos/zyeyksoJf78
+chesterfield.webp — Photo by ? on Unsplash — https://unsplash.com/photos/WdWmF-FOupU
+terrace-lights.webp — Photo by ? on Unsplash — https://unsplash.com/photos/nFRRqDEkzMs
